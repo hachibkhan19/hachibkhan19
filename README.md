@@ -8,6 +8,14 @@
 * 🎯 Focus: Designing and developing scalable APIs, building core components for microservices architectures, and managing databases.
 * 🌱 Always learning: Continuously exploring new technologies like DevOps tools and cloud platforms
 
+### 🛠️ Tech Stack
+* Languages: Python, JavaScript, PHP
+* Frameworks: Django, FastAPI, Laravel, DRF
+* Databases: PostgreSQL, MySQL, MongoDB, Redis
+* Tools & Platforms: Docker, Prisma, Alembic, Git, Linux
+* CI/CD: Jenkins, GitHub Actions
+* Other Tools: Redis, Kemp Load Balancer, Wagtail, Portainer
+
 <!--
 **hachibkhan19/hachibkhan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
