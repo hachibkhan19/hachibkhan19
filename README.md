@@ -2,7 +2,7 @@
 ## Software Engineer | Problem Solver | Backend Enthusiast | DevOps Learner 
 
 ### 🚀 About Me
-* 🔧 Experience: 2+ years as a Backend Developer working with Python, Django, FastAPI, and DRF.
+* 🔧 Experience: 2.6+ years as a Backend Developer working with Python, Django, FastAPI, and DRF.
 * ⚙️ Tech Stack: Python, FastAPI, Django, DRF, PostgreSQL, MySQL, MongoDB, Redis.
 * 🎯 Focus: Designing and developing scalable APIs, building core components for microservices architectures, and managing databases.
 * 🌱 Always learning: Continuously exploring new technologies like DevOps tools and cloud platforms
