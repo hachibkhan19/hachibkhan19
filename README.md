@@ -17,7 +17,7 @@
 * Other Tools: Redis, Kemp Load Balancer, Wagtail, Portainer
 
 ### 🧑‍💻 Projects
-1. IntelliHire - Intelligent Hiring Automation
+# 1. IntelliHire - Intelligent Hiring Automation
  * A platform to automate hiring processes using AI.
  * Tech: Python, FastAPI, PostgreSQL, MongoDB, Prisma, Redis, Docker
  * Role: Backend Developer, focused on building APIs and microservices to improve candidate evaluation.
