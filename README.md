@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hachib Khan
-## Software Engineer | Problem Solver | Backend Enthusiast | DevOps Learner \\
+## Software Engineer | Problem Solver | Backend Enthusiast | DevOps Learner \
 
 
 ### 🚀 About Me
