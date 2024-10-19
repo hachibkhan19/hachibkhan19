@@ -1,4 +1,4 @@
-# Hi,I'm Hachib Khan 👋
+#👋 Hi, I'm Hachib Khan
 
 <!--
 **hachibkhan19/hachibkhan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
