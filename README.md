@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Hachib Khan
 ## Software Engineer | Problem Solver | Backend Enthusiast | DevOps Learner
 
+### 🚀 About Me
+🔧 Experience: 2+ years as a Backend Developer working with Python, Django, FastAPI, and DRF.
+⚙️ Tech Stack: Python, FastAPI, Django, DRF, PostgreSQL, MySQL, MongoDB, Redis.
+🎯 Focus: Designing and developing scalable APIs, building core components for microservices architectures, and managing databases.
+🌱 Always learning: Continuously exploring new technologies like DevOps tools and cloud platforms
+
 <!--
 **hachibkhan19/hachibkhan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
