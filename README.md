@@ -12,7 +12,7 @@
 * Languages: Python, JavaScript, PHP
 * Frameworks: Django, FastAPI, Laravel, DRF
 * Databases: PostgreSQL, MySQL, MongoDB, Redis
-* Tools & Platforms: Docker, Prisma, Alembic, Git, Linux
+* Tools & Platforms: Docker, Prisma, SQLAlchemy, Alembic, Git, Linux
 * CI/CD: Jenkins, GitHub Actions
 * Other Tools: Redis, Kemp Load Balancer, Wagtail, Portainer
 
