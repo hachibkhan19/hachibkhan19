@@ -18,9 +18,9 @@
 
 ### 🧑‍💻 Projects
 ### 1. IntelliHire - Intelligent Hiring Automation
-    * A platform to automate hiring processes using AI.
-    * Tech: Python, FastAPI, PostgreSQL, MongoDB, Prisma, Redis, Docker
-    * Role: Backend Developer, focused on building APIs and microservices to improve candidate evaluation.
+* A platform to automate hiring processes using AI.
+* Tech: Python, FastAPI, PostgreSQL, MongoDB, Prisma, Redis, Docker
+* Role: Backend Developer, focused on building APIs and microservices to improve candidate evaluation.
 ### 2. TrMIS - Training Management Information System
      * A system to manage training programs for tuberculosis control in Bangladesh.
      * Tech: Python, Django, DRF, PostgreSQL
