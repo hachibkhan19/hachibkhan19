@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hachib Khan
-## Software Engineer | Problem Solver | Backend Enthusiast | DevOps Learner 
+## Software Engineer | Problem Solver | Backend Developer | DevOps Learner 
 
 ### 🚀 About Me
 * 🔧 Experience: 2.8+ years as a Backend Developer working with Python, Django, FastAPI, and DRF.
